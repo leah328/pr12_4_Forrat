@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "komnata", "komnata.csproj", "{B31CACF8-1154-4C91-82B5-B76B6D308FA2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B31CACF8-1154-4C91-82B5-B76B6D308FA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31CACF8-1154-4C91-82B5-B76B6D308FA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31CACF8-1154-4C91-82B5-B76B6D308FA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31CACF8-1154-4C91-82B5-B76B6D308FA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB522119-7C34-4EAF-AA21-1A3AE6F80468}
+	EndGlobalSection
+EndGlobal
